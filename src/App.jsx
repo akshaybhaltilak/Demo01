@@ -7,12 +7,15 @@ import Sites from "./pages/Sites";
 import Login from "./pages/Login";
 import BalanceSheet from "./pages/BalanceSheet";
 import Tasks from "./pages/Tasks";
+import VastushobhaHeader from "./pages/Header";
+import VastushobhaFooter from "./pages/Footer";
 
 
 
 function App() {
   return (
     <Router>
+      <VastushobhaHeader/>
       <Routes>
         <Route path="/" element={<Login/>} />
         <Route path="/project" element={<Projects />} />
@@ -24,6 +27,7 @@ function App() {
         <Route path="/projects/:id/tasks" element={<Tasks/>} />
       
       </Routes>
+      <VastushobhaFooter/>
     </Router>
   );
 }
