@@ -30,9 +30,9 @@ export default function VastushobhaFooter() {
           <div className="mb-6">
             <div className="flex items-center mb-4">
               <div className="w-12 h-12 bg-yellow-500 rounded-lg flex items-center justify-center mr-3">
-                <span className="text-gray-900 font-bold text-xl">V</span>
+                <span className="text-gray-900 font-bold text-xl">A</span>
               </div>
-              <h3 className="text-xl font-bold text-white">Vastushobha</h3>
+              <h3 className="text-xl font-bold text-white">Akshay</h3>
             </div>
             <p className="text-gray-400 mb-4">
               Building dreams into reality with quality craftsmanship and innovative designs since 1995.
@@ -87,7 +87,7 @@ export default function VastushobhaFooter() {
             </div>
             <div>
               <h5 className="font-bold text-white">Email Us</h5>
-              <p className="text-gray-400">info@vastushobha.com</p>
+              <p className="text-gray-400">info@akshay.com</p>
             </div>
           </div>
           <div className="flex items-start">
@@ -106,7 +106,7 @@ export default function VastushobhaFooter() {
       <div className="bg-gray-950 py-4">
         <div className="container mx-auto px-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © {new Date().getFullYear()} Vastushobha Construction. All Rights Reserved.
+            © {new Date().getFullYear()} Akshay Construction. All Rights Reserved.
           </p>
           <div className="flex mt-4 md:mt-0">
             <a href="#" className="text-gray-400 hover:text-yellow-500 text-sm mx-2">Privacy Policy</a>

@@ -15,7 +15,7 @@ const VastushobhaHeader = () => {
               </div>
               <div className="ml-3">
                 <h1 className="text-xl font-bold text-white">
-                  <span className="text-amber-300">Vastu</span>shobha
+                  <span className="text-amber-300">Akshay</span>
                 </h1>
                 <p className="text-xs text-indigo-200 -mt-1">Construction Solutions</p>
               </div>
